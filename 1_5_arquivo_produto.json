@@ -1,0 +1,32 @@
+[
+    {
+        "descricao": "pao",
+        "valor_produto": 10.0,
+        "tipo_embalagem": "pacote",
+        "icms": 1.8
+    },
+    {
+        "descricao": "bolo",
+        "valor_produto": 5.0,
+        "tipo_embalagem": "pote",
+        "icms": 0.9
+    },
+    {
+        "descricao": "banana",
+        "valor_produto": 2.0,
+        "tipo_embalagem": "sacola",
+        "icms": 0.36
+    },
+    {
+        "descricao": "rtx 5090",
+        "valor_produto": 3000.0,
+        "tipo_embalagem": "caixa",
+        "icms": 540.0
+    },
+    {
+        "descricao": "Monitor AOC 180Hz",
+        "valor_produto": 785.0,
+        "tipo_embalagem": "caixa",
+        "icms": 141.3
+    }
+]
